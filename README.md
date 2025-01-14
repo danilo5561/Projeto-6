@@ -1,5 +1,5 @@
-🕹️ Análise de Dados: Sucesso de Videogames no Mercado Global 🎮
-📋 Descrição do Projeto
+### 🕹️ Análise de Dados: Sucesso de Videogames no Mercado Global 🎮
+#### 📋 Descrição do Projeto
 A loja online Ice, especializada na venda de videogames, busca identificar padrões que determinam o sucesso de um jogo. Com base em avaliações de usuários e especialistas, dados de vendas históricas e classificações ESRB, o objetivo deste projeto é analisar os dados para prever possíveis sucessos e planejar campanhas publicitárias eficazes para 2017.
 
 Os dados abrangem informações como:
